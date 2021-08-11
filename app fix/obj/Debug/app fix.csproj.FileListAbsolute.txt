@@ -1,0 +1,36 @@
+C:\Users\idan\Documents\C#\app fix\app fix\bin\Debug\app fix.exe.config
+C:\Users\idan\Documents\C#\app fix\app fix\bin\Debug\app fix.exe
+C:\Users\idan\Documents\C#\app fix\app fix\bin\Debug\app fix.pdb
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.csproj.AssemblyReference.cache
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app_fix.Properties.Resources.resources
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.csproj.GenerateResource.cache
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.csproj.CoreCompileInputs.cache
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.exe
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.pdb
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\Interop.Photoshop.dll
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app fix.csproj.ResolveComReference.cache
+C:\Users\idan\Documents\C#\app fix\app fix\obj\Debug\app_fix.Game_Libary.resources
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.csproj.AssemblyReference.cache
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\Interop.Photoshop.dll
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.csproj.ResolveComReference.cache
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app_fix.Game_Libary.resources
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app_fix.Properties.Resources.resources
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.csproj.GenerateResource.cache
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.csproj.CoreCompileInputs.cache
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.exe
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\obj\Debug\app fix.pdb
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\bin\Debug\app fix.exe.config
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\bin\Debug\app fix.exe
+C:\Users\idan\Desktop\C#\app fix - Copy\app fix\bin\Debug\app fix.pdb
+D:\C#\c# tutorial\app_shortcuts_app\app fix\bin\Debug\app fix.exe.config
+D:\C#\c# tutorial\app_shortcuts_app\app fix\bin\Debug\app fix.exe
+D:\C#\c# tutorial\app_shortcuts_app\app fix\bin\Debug\app fix.pdb
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.csproj.AssemblyReference.cache
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\Interop.Photoshop.dll
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.csproj.ResolveComReference.cache
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app_fix.Game_Libary.resources
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app_fix.Properties.Resources.resources
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.csproj.GenerateResource.cache
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.csproj.CoreCompileInputs.cache
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.exe
+D:\C#\c# tutorial\app_shortcuts_app\app fix\obj\Debug\app fix.pdb
