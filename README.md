@@ -12,7 +12,7 @@ To put a file to a button write:
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"File Diraction");
+            System.Diagnostics.Process.Start(@"File direction");
         }
         
 To put a website to a button write:
