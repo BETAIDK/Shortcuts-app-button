@@ -11,7 +11,7 @@ To put a file to a button write
             System.Diagnostics.Process.Start(@"File Diraction");
         }
         
-To put website to a button write
+To put a website to a button write
 
         private void button1_Click(object sender, EventArgs e)
         {
